@@ -1,0 +1,17 @@
+{
+  "userDetails": [
+    {
+      "id": 1,
+      "firstName": "Random",
+      "lastName": "User1",
+      "mobile": "1234567890",
+      "email": "testing_user1@gmail.com",
+      "password": "testing123",
+      "confirmPassword": "testing123",
+      "otp": "123456",
+      "isLoading": false,
+      "isError": false,
+      "isAuth": true
+    }
+  ]
+}

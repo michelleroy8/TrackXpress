@@ -1,0 +1,52 @@
+{
+    "venues": [
+        {
+            "description": "This particular order has been placed by Mr. Sharma, from Bangalore",
+            "name": "Kormangala 5th block",
+            "geometry": [
+                12.936002,
+                77.625457
+            ]
+        },
+        {
+            "description": "This particular order has been placed by Mr. Roy, from Bangalore",
+            "name": "Whitefield Road",
+            "geometry": [
+                12.993918,
+                77.701723
+            ]
+        },
+        {
+            "description": "This particular order has been placed by Miss. Verma, from Bangalore",
+            "name": "Yelahanka",
+            "geometry": [
+                13.101744, 
+                77.583894
+            ]
+        },
+        {
+            "description": "This particular order has been placed by Mrs. Gowda, from Bangalore",
+            "name": "HRBR Layout",
+            "geometry": [
+                13.021835,
+                77.640661
+            ]
+        },
+        {
+            "description": "This particular order has been placed by Mrs. Lakshmi, from Bangalore",
+            "name": "K R puram",
+            "geometry": [
+                13.010974,
+                77.701884
+            ]
+        },
+        {
+            "description": "This particular order has been placed by Mr. Ramakrishanan, from Bangalore",
+            "name": "Anekal",
+            "geometry": [
+                12.835683, 
+                77.556729
+            ]
+        }
+    ]
+}
